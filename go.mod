@@ -1,4 +1,4 @@
-module github.com/status-im/extkeys
+module github.com/igor-sirotin/extkeys
 
 go 1.13
 
